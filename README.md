@@ -1,5 +1,11 @@
 # Disaster-Response-Pipeline
-A ML pipeline project which categorizes tweets received during disaster time period using data provided by Figure Eight. 
+This is an NLP project which categorizes tweets received during disaster time period using data provided by Figure Eight using a
+supervised machine learning. The end result of the project is a web dashboard which can categorize new messages.
+
+# Approach
+1. Firstly, an ETL pipeline is run which combines the messages and categories dataset, removes duplicates, turns categories into
+separate columns and stores the clean data in an SQLite database.
+2. 
 
 # Project Components
 
