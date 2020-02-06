@@ -1,5 +1,5 @@
 # Disaster-Response-Pipeline
-This is an NLP project which categorizes tweets received during disaster time period using data provided by Figure Eight using
+This is a NLP project which categorizes tweets received during disaster time period using data provided by Figure Eight using
 supervised machine learning. The end result of the project is a [web dashboard](https://view6914b2f4-3001.udacity-student-workspaces.com/) which can categorize new messages.
 
 # Motivation
